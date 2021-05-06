@@ -1,0 +1,140 @@
+
+.findblood{
+    display: block;
+    margin: 50px;
+  width: 50%;
+  
+}
+
+.blocks{
+    margin: 20px;
+    padding: 30px;
+}
+
+.card-deck{
+    
+    margin:40px;
+    padding:30px;
+}
+
+.bloodgrp{
+   background-color: rgb(255, 249, 249);
+    margin: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding: 20px;
+    text-align: center;
+}
+
+.blood{
+    margin: 20px;
+}
+
+#bgroup{
+    background-color: #ff4c68;
+}
+
+#testimonials{
+    height: 700px;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.carousel-text{
+    
+
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+.testimonial-image{
+    width: 30%;
+    height:30%;
+    border-radius: 50%;
+    margin: 20px;
+    margin-top:5px;
+    padding: 30px;
+}
+
+
+
+.endblocks{
+    margin: 20px;
+    padding: 20px;
+}
+
+.end{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.inend{
+    margin: 20px;
+}
+#aboutus{
+    
+    padding: 150px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-blood-donation-poster-board-background-material-image_163689.jpg');
+    background-repeat: no-repeat;
+  background-size: 100%;
+  -webkit-background-size: 110%;
+  background-position-x: left;
+  
+}
+
+
+.f{
+    padding: 20px;
+}
+.fab{
+    padding: 8px;
+}
+
+#f1{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.f2{
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+.donate{
+    padding: 100px;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    font-size: large;
+    background-color: rgb(252, 235, 235);
+}
+h3,h4{
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+.f3{
+    color: black;
+}
+
+.f4{
+    font-family: 'Source Serif Pro', serif;
+    font-size: large;
+    
+
+}
+
+.inbody{
+    background-color: rgb(252, 235, 235);
+}
